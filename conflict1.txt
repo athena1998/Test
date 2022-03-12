@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first line
+=======
+new line
+>>>>>>> feature-conflict
